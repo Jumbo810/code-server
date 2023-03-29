@@ -11,8 +11,8 @@ on:
   #       type: string
   #       required: true
 
-  release:
-    types: [released]
+  # release:
+  #   types: [released]
 
 # Cancel in-progress runs for pull requests when developers push
 # additional changes, and serialize builds in branches.
